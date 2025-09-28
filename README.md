@@ -1,1 +1,1 @@
-# Estudos em LLM e PLN
+# Estudos em LLM com Machine Learning e PLN
